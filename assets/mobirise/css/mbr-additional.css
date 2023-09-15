@@ -1379,11 +1379,11 @@ a {
   }
 }
 .cid-tPVSbzNOWT .mbr-section-title {
-  color: #260a30;
+  color: #232323;
 }
 .cid-tPVSbzNOWT .mbr-text,
 .cid-tPVSbzNOWT .mbr-section-btn {
-  color: #260a30;
+  color: #232323;
 }
 .cid-tPVqwt77TE {
   padding-top: 6rem;
@@ -1531,6 +1531,10 @@ a {
 .cid-tPVqwt77TE .card-text4,
 .cid-tPVqwt77TE .mbr-section-btn {
   color: #ffffff;
+}
+.cid-tPVqwt77TE .card-text1,
+.cid-tPVqwt77TE .card1 .mbr-section-btn {
+  color: #232323;
 }
 .cid-tPVBcDtjhd {
   padding-top: 0rem;
